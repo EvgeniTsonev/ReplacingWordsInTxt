@@ -1,0 +1,6 @@
+C:\Users\Genata\Desktop\ReplacingWordsInTxt\ReplacingWordsInTxt\bin\Debug\ReplacingWordsInTxt.exe.config
+C:\Users\Genata\Desktop\ReplacingWordsInTxt\ReplacingWordsInTxt\bin\Debug\ReplacingWordsInTxt.exe
+C:\Users\Genata\Desktop\ReplacingWordsInTxt\ReplacingWordsInTxt\bin\Debug\ReplacingWordsInTxt.pdb
+C:\Users\Genata\Desktop\ReplacingWordsInTxt\ReplacingWordsInTxt\obj\Debug\ReplacingWordsInTxt.csprojResolveAssemblyReference.cache
+C:\Users\Genata\Desktop\ReplacingWordsInTxt\ReplacingWordsInTxt\obj\Debug\ReplacingWordsInTxt.exe
+C:\Users\Genata\Desktop\ReplacingWordsInTxt\ReplacingWordsInTxt\obj\Debug\ReplacingWordsInTxt.pdb
